@@ -1,0 +1,4 @@
+# Don't store the database(s), a generator will be provided to retrieve them.
+/database/data/
+# lol, we don't need idea project files here.
+/.idea/
